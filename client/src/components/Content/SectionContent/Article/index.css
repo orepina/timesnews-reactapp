@@ -1,0 +1,11 @@
+.article {
+	position: relative;
+	width: 100%;
+	margin: 30px 0 0 0;
+}
+
+.article .meta {
+	position: absolute;
+	bottom: 20px;
+}
+

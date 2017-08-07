@@ -1,0 +1,10 @@
+.header {
+	height: 82px;
+	background-color: #263238; 
+  	text-align: center;
+  	font-family: 'BrandonText Bold';
+  	font-size: 26px;
+  	text-transform: uppercase;
+  	color: #FFF;
+  	line-height: 82px;
+}

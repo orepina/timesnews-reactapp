@@ -1,0 +1,42 @@
+.search-article {
+	border-top: 1px solid #ECECEC;
+	padding: 20px 10px 20px 0;
+}
+
+.search-article:last-child {
+	border-bottom: 1px solid #ECECEC;
+}
+
+.search-article .image {
+	float: left;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	background-color: #FFF;
+	border: 1px solid #E1E1E1;
+}
+
+.search-article .image .no-image{
+	color: #E1E1E1; 
+}
+
+.search-article .body-wrapper {
+	margin-left: 100px;
+}
+
+.search-article .body {
+	margin-left: 30px;
+}
+
+.search-article .title {
+	font-family: 'BrandonText Bold';
+	font-size: 25px;
+	color: #009CDE;
+}
+
+.search-article .text {
+	font-family: 'BrandonText Medium';
+	font-size: 18px;
+	color: #555;
+	margin: 10px 0 0 0;
+}

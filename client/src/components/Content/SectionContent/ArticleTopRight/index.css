@@ -1,0 +1,21 @@
+.article-top-right{
+	position: absolute;
+	height: 206px;
+	width: 37%;
+	right: 0;
+  	top: 0;
+}
+
+.article-top-right + .article-top-right{
+	position: absolute;
+	height: 206px;
+	width: 37%;
+	right: 0;
+  	top: 206px;
+  	margin: 30px 0 0 0;
+}
+
+.article-top-right .meta {
+	position: absolute;
+	bottom: 20px;
+}

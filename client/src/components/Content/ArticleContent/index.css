@@ -1,0 +1,30 @@
+.full-article .full-title {
+	font-family: 'BrandonText Bold';
+	font-size: 45px;
+	color: #000;
+}
+
+.full-article .meta {
+	margin: 16px 0 40px 0;
+}
+
+.full-article .image {
+	height: 158px;
+	width: 158px;
+	background-color: #FFF;
+	float: left;
+	line-height: 158px;
+	border: 1px solid #E1E1E1;
+}
+
+.full-article .image .no-image {
+	color: #E1E1E1;
+}
+
+.full-article .full-text-wrapper {
+	margin-left: 185px;
+}
+
+.full-article .full-text {
+	font-family: 'BrandonText Regular';
+}

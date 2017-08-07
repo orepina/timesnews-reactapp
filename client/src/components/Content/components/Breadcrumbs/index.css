@@ -1,0 +1,11 @@
+.breadcrumbs {
+	font-family: 'BrandonText Bold';
+	font-size: 20px;
+	margin-bottom: 29px;
+	color: #000;
+}
+
+.breadcrumbs span{
+	color: #009CDE;
+	padding-right: 10px;
+}

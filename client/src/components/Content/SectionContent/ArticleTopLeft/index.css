@@ -1,0 +1,39 @@
+.article-top-left {
+	height: 442px;
+	position: relative;
+	width: 58%;
+}
+
+.article-top-left .top-part {
+	background-color: #C1C9D5;
+	height: 206px;
+}
+
+.article-top-left .image {
+	margin: 24px 20px 0 10px;
+	float: right;
+	height: 158px;
+	width: 158px;
+	background-color: #FFF;
+	line-height: 158px;
+}
+
+.article-top-left .image .no-image{
+	color: #E1E1E1;
+}
+
+.article-top-left .meta {
+	color: #fff;
+	padding: 10px 0 0 0;
+	position: relative;
+	bottom: 0;
+}
+
+.article-top-left .meta span {
+	color: #fff;
+}
+
+
+.article-top-left .text.top-left {
+	padding: 20px 0 0 0;
+}

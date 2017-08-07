@@ -1,0 +1,29 @@
+.nav-tabs-container {
+	height: 51px;
+  	text-align: center;
+	box-shadow: 0 2px 10px 0 rgba(0,0,0,0.05);
+	border: 1px solid #ECECEC;
+	font-family: 'BrandonText Bold';
+	font-size: 20px;
+	color: #000;
+  	line-height: 51px;
+
+	box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.nav-tabs {
+	height: 100%;	
+}
+
+.tab {
+	display: inline-block;
+	height: 100%;
+	width: 16%;
+	cursor: pointer;
+}
+
+.tab.active{
+	box-shadow: 0 -3px 0 0 #009CDE inset;
+}

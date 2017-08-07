@@ -1,0 +1,12 @@
+.meta {
+	font-family: 'BrandonText Medium';
+	font-size: 15px;
+	color: #B1B3B3;
+	text-transform: capitalize;
+}
+
+.meta span {
+	font-family: 'BrandonText Regular';
+	color: #002F6C;
+	margin: 0 0 0 10px;
+}
